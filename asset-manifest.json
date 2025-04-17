@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_matrial_ui/static/css/main.6e434bb5.css",
+    "main.js": "/react_matrial_ui/static/js/main.1b8627b1.js",
+    "static/media/img2.jpeg": "/react_matrial_ui/static/media/img2.6d9b4abfd242b709ed12.jpeg",
+    "index.html": "/react_matrial_ui/index.html",
+    "main.6e434bb5.css.map": "/react_matrial_ui/static/css/main.6e434bb5.css.map",
+    "main.1b8627b1.js.map": "/react_matrial_ui/static/js/main.1b8627b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e434bb5.css",
+    "static/js/main.1b8627b1.js"
+  ]
+}
